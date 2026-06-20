@@ -1,0 +1,11 @@
+# 原始講義 PDF/PPT/XLS — 第三方著作權，不隨 repo 發佈
+sources/
+
+# macOS
+.DS_Store
+
+# 暫存/編輯器
+*.tmp
+*.swp
+.idea/
+.vscode/
