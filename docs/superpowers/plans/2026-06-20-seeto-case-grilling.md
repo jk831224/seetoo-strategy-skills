@@ -1,10 +1,10 @@
-# seetoo-case-grilling 實作計畫
+# seeto-case-grilling 實作計畫
 
 **Goal:** 在 `seetoo-strategy-core` 上，建一支「司徒達賢個案教學式拷問」技能：對使用者的事業/主張不斷追問、不放過含糊、扣回方法，逼出嚴謹思考。
 
 **Architecture:** SKILL.md（拷問協定＋persona＋消費 core）＋ 3 份 reference（提問庫、拷問流程、worked-example 對話）。內容為自撰編排層；採直接撰寫＋ 1 個 Opus 審查＋紀律測試。
 
-**依賴：** core 已存在且 symlink；分支 `feat/seetoo-case-grilling`（自 analysis，linear stack）。
+**依賴：** core 已存在且 symlink；分支 `feat/seeto-case-grilling`（自 analysis，linear stack）。
 
 ---
 

@@ -1,4 +1,4 @@
-# seetoo-case-grilling 設計規格
+# seeto-case-grilling 設計規格
 
 - 日期：2026-06-20
 - 狀態：設計（依 /goal 自主推進，產出後供使用者複審）
@@ -10,7 +10,7 @@
 ## 0. 範圍
 
 三支技能的第三支（core → analysis → **grilling** → tutor）。本 spec 只涵蓋
-`seetoo-case-grilling`（個案拷問教練）。
+`seeto-case-grilling`（個案拷問教練）。
 
 ## 1. 定位
 
@@ -50,7 +50,7 @@
 ## 5. 檔案結構
 
 ```
-skills/seetoo-case-grilling/
+skills/seeto-case-grilling/
 ├── SKILL.md                       # 拷問協定、persona、消費 core、何時收、自檢
 └── references/
     ├── 提問庫.md                   # 依核心概念分類的追問題庫（各附 core 錨點）
@@ -91,8 +91,8 @@ skills/seetoo-case-grilling/
 
 | 項目 | 決定 |
 |---|---|
-| 命名 | `seetoo-case-grilling`（一致；`seeto-` 視為筆誤） |
+| 命名 | `seeto-case-grilling`（一致；`seeto-` 視為筆誤） |
 | 依賴 | 站在 core 上 |
 | 產物 | 對話（磨利思路），非報告 |
 | 風格 | 司徒達賢個案教學：蘇格拉底式、不放過含糊、對事不對人 |
-| 位置/分支 | `skills/` ＋ symlink；分支 `feat/seetoo-case-grilling`（自 analysis 分支，linear stack），PR base = `feat/seetoo-strategy-analysis` |
+| 位置/分支 | `skills/` ＋ symlink；分支 `feat/seeto-case-grilling`（自 analysis 分支，linear stack），PR base = `feat/seetoo-strategy-analysis` |

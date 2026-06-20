@@ -18,7 +18,7 @@
 |---|---|---|
 | **seetoo-strategy-core** | 共用核心（雙層：忠實×操作） | 蒸餾版講義知識庫 |
 | **seetoo-strategy-analysis** | 策略分析引擎 | 用策略形態分析法＋策略矩陣產出分析 |
-| **seetoo-case-grilling** | 個案拷問教練 | 用個案教學的紀律追問你的事業/個案 |
+| **seeto-case-grilling** | 個案拷問教練 | 用個案教學的紀律追問你的事業/個案 |
 | **seetoo-strategy-tutor** | 講義學習助教 | 教學、例題習題、出題批改 |
 
 建造順序：**核心 → 分析 → 拷問 → 學習**。
