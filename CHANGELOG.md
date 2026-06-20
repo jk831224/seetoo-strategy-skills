@@ -21,7 +21,7 @@
   兩模式、兩種不杜撰、三分區【事實】/【框架】/【判斷】、反主張起手紅線）、`intake-清單.md`、
   `分析報告範本.md`、`worked-example-鬍鬚張.md`（事實全可回溯 core 案例庫）。經 Opus 審查判定 READY。
 - core `10-案例庫`：標註講義原文「開放加盟」年份不一致（內文 1984／表 1982 並陳，不擅自擇一）。
-- **`seeto-case-grilling` v0.1 實作完成**：站在 core 上的個案拷問教練——`SKILL.md`（拷問協定、
+- **`seetoo-case-grilling` v0.1 實作完成**：站在 core 上的個案拷問教練——`SKILL.md`（拷問協定、
   司徒達賢個案教學 persona、反主張攔截、不腦補事業事實、蘇格拉底式以問為主）、`提問庫.md`、
   `拷問流程.md`、`worked-example-對話.md`。扣回 core；經 Opus 審查判定 READY。
 

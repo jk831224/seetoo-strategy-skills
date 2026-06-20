@@ -17,7 +17,7 @@
         ┌──── seetoo-strategy-core（本 spec）────┐
         │  蒸餾版講義知識庫（雙層：忠實×操作）   │
         └──────────────────┬─────────────────────┘
-   ① seetoo-strategy-analysis  ② seeto-case-grilling  ③ seetoo-strategy-tutor
+   ① seetoo-strategy-analysis  ② seetoo-case-grilling  ③ seetoo-strategy-tutor
       策略分析引擎                個案拷問教練             講義學習助教
 ```
 

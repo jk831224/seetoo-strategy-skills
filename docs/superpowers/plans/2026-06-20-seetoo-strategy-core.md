@@ -219,7 +219,7 @@ git commit -m "feat(core): scaffold 骨架與可回溯稽核工具"
 ````markdown
 ---
 name: seetoo-strategy-core
-description: 司徒達賢《策略管理講義》的蒸餾知識核心（雙層：原文依據×操作層）。當需要忠實、扣回原文地運用司徒達賢的策略形態分析法、六大構面（產市垂規地競）、環條目、策略構想、前提驗證、策略矩陣/產業矩陣，或查詢他對某策略議題的主張時使用；亦為 seetoo-strategy-analysis、seeto-case-grilling、seetoo-strategy-tutor 三支技能的共用底座。鎖術語、每個操作主張錨回原文、守第十一章反主張邊界（不從 SWOT/mission/環境/目標 起手）。
+description: 司徒達賢《策略管理講義》的蒸餾知識核心（雙層：原文依據×操作層）。當需要忠實、扣回原文地運用司徒達賢的策略形態分析法、六大構面（產市垂規地競）、環條目、策略構想、前提驗證、策略矩陣/產業矩陣，或查詢他對某策略議題的主張時使用；亦為 seetoo-strategy-analysis、seetoo-case-grilling、seetoo-strategy-tutor 三支技能的共用底座。鎖術語、每個操作主張錨回原文、守第十一章反主張邊界（不從 SWOT/mission/環境/目標 起手）。
 ---
 
 # seetoo-strategy-core
