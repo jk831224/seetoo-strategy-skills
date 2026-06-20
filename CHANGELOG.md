@@ -4,7 +4,7 @@
 格式依循 [Keep a Changelog](https://keepachangelog.com/zh-TW/1.1.0/)，
 版本依循 [Semantic Versioning](https://semver.org/lang/zh-TW/)。
 
-## [Unreleased]
+## [0.1.0] - 2026-06-20
 
 ### Added
 - 專案初始化：目錄結構、`README.md`、`CHANGELOG.md`、`LICENSE`、`NOTICE`、`.gitignore`。
@@ -28,6 +28,9 @@
   四模式、忠實教學、不杜撰、【講義】vs【教學鷹架】分層、鼓勵式）、`學習路徑.md`、`出題與批改規準.md`、
   `worked-example-教學.md`。扣回 core；經 Opus 審查判定 READY。
 - 命名修正：`seeto-case-grilling`（曾誤拼）已更正回 `seetoo-case-grilling`。
+- `seetoo-strategy-tutor` 增強：解析第九章附錄《策略矩陣例題及習題》(`.ppsx`，387 張) 與第十章附錄
+  《產業矩陣》(`.xls`)，新增 `references/例題習題庫.md`（用途與價值、產業矩陣範本、題號系列索引 101–207、
+  103 系列 8 題習題）；經 Opus 忠實度審查、修正後對齊原文（原始檔仍不發佈）。
 
 ### 里程碑
 - 四支技能（core／analysis／case-grilling／strategy-tutor）v0.1 全部完成並合併至 `main`。
