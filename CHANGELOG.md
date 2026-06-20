@@ -24,6 +24,10 @@
 - **`seetoo-case-grilling` v0.1 實作完成**：站在 core 上的個案拷問教練——`SKILL.md`（拷問協定、
   司徒達賢個案教學 persona、反主張攔截、不腦補事業事實、蘇格拉底式以問為主）、`提問庫.md`、
   `拷問流程.md`、`worked-example-對話.md`。扣回 core；經 Opus 審查判定 READY。
+- **`seetoo-strategy-tutor` v0.1 實作完成**：站在 core 上的講義學習助教——`SKILL.md`（講解/帶練/出題/批改
+  四模式、忠實教學、不杜撰、【講義】vs【教學鷹架】分層、鼓勵式）、`學習路徑.md`、`出題與批改規準.md`、
+  `worked-example-教學.md`。扣回 core；經 Opus 審查判定 READY。
+- 命名修正：`seeto-case-grilling`（曾誤拼）已更正回 `seetoo-case-grilling`。
 
-### Planned
-- `seetoo-strategy-tutor`（講義學習助教）。
+### 里程碑
+- 四支技能（core／analysis／case-grilling／strategy-tutor）v0.1 全部完成並合併至 `main`。
