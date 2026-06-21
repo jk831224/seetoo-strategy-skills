@@ -14,8 +14,8 @@
   [`docs/superpowers/specs/2026-06-20-seetoo-strategy-core-design.md`](docs/superpowers/specs/2026-06-20-seetoo-strategy-core-design.md)
   （雙層「忠實×操作」取向、雙層模板、反杜撰紀律機制、驗證方式）。
 - **`seetoo-strategy-core` v0.1 實作完成**：11 份雙層 reference 檔（`00-術語表`～`10-案例庫`）、
-  `SKILL.md`（檢索紀律＋reference 地圖）、`tools/audit_core.py`＋`tools/gen_index.py`、
-  `章節索引.md`、`版本.md`。逐章 implementer→spec審→品質審（全 Opus），全數通過可回溯稽核，
+  `SKILL.md`（檢索紀律＋reference 地圖）、`章節索引.md`、`版本.md`，以及 repo 根層 `tools/`
+  的稽核／索引腳本（`audit_core.py`＋`gen_index.py`）。逐章 implementer→spec審→品質審（全 Opus），全數通過可回溯稽核，
   並經最終全案審查（獨立開 PDF 逐字核對）：0 杜撰、0 待查，已修正 4 處逐字 typo。
 - **`seetoo-strategy-analysis` v0.1 實作完成**：站在 core 上的策略分析引擎——`SKILL.md`（十步驟程序、
   兩模式、兩種不杜撰、三分區【事實】/【框架】/【判斷】、反主張起手紅線）、`intake-清單.md`、
